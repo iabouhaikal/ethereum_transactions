@@ -1,0 +1,53 @@
+.navbar-container {
+    height: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.navbar {
+    border-radius: 0;
+}
+
+.logo {
+    height: 30px;
+    margin-right: 5px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.title {
+    font-size: 18px;
+    padding: 5px 5px;
+    color: #b5b5b5;
+    text-decoration: none;
+}
+
+.logout {
+    font-size: 14px;
+    float: right;
+    margin: 5px 50px;
+}
+
+a:link {
+    color: #3079b4;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #3079b4;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #3079b4;
+    text-decoration: none;
+}
+
+a:active {
+    color: #3079b4;
+    text-decoration: none;
+}
+
+.bg-dark {
+    background-color: #23252A !important;
+}
